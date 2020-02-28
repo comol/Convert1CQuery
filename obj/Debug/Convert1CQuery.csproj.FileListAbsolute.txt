@@ -1,0 +1,18 @@
+c:\users\timur.butkov\documents\visual studio 2015\Projects\Convert1CQuery\bin\Debug\Convert1CQuery.exe.config
+c:\users\timur.butkov\documents\visual studio 2015\Projects\Convert1CQuery\bin\Debug\Convert1CQuery.exe
+c:\users\timur.butkov\documents\visual studio 2015\Projects\Convert1CQuery\bin\Debug\Convert1CQuery.pdb
+c:\users\timur.butkov\documents\visual studio 2015\Projects\Convert1CQuery\obj\Debug\Convert1CQuery.csprojResolveAssemblyReference.cache
+c:\users\timur.butkov\documents\visual studio 2015\Projects\Convert1CQuery\obj\Debug\Convert1CQuery.Form1.resources
+c:\users\timur.butkov\documents\visual studio 2015\Projects\Convert1CQuery\obj\Debug\Convert1CQuery.Properties.Resources.resources
+c:\users\timur.butkov\documents\visual studio 2015\Projects\Convert1CQuery\obj\Debug\Convert1CQuery.csproj.GenerateResource.Cache
+c:\users\timur.butkov\documents\visual studio 2015\Projects\Convert1CQuery\obj\Debug\Convert1CQuery.exe
+c:\users\timur.butkov\documents\visual studio 2015\Projects\Convert1CQuery\obj\Debug\Convert1CQuery.pdb
+D:\GitProjects\UtilsStuff\Convert1CQuery\bin\Debug\Convert1CQuery.exe.config
+D:\GitProjects\UtilsStuff\Convert1CQuery\obj\Debug\Convert1CQuery.exe
+D:\GitProjects\UtilsStuff\Convert1CQuery\obj\Debug\Convert1CQuery.pdb
+D:\GitProjects\UtilsStuff\Convert1CQuery\bin\Debug\Convert1CQuery.exe
+D:\GitProjects\UtilsStuff\Convert1CQuery\bin\Debug\Convert1CQuery.pdb
+D:\GitProjects\UtilsStuff\Convert1CQuery\obj\Debug\Convert1CQuery.csprojResolveAssemblyReference.cache
+D:\GitProjects\UtilsStuff\Convert1CQuery\obj\Debug\Convert1CQuery.Form1.resources
+D:\GitProjects\UtilsStuff\Convert1CQuery\obj\Debug\Convert1CQuery.Properties.Resources.resources
+D:\GitProjects\UtilsStuff\Convert1CQuery\obj\Debug\Convert1CQuery.csproj.GenerateResource.Cache
